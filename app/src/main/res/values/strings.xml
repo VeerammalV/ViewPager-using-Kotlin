@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome_to_dashboard">Welcome to Dashboard</string>
+    <string name="icon_3">Icon 3</string>
+    <string name="icon_2">Icon 2</string>
+    <string name="icon_1">Icon 1</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed turpis nec nisi tincidunt lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris at est ut tortor bibendum consectetur sit amet id quam. Nullam consequat purus non mauris faucibus, vitae fermentum orci aliquet. Nullam rutrum pharetra neque, vitae tincidunt elit auctor in. In hac habitasse platea dictumst. Proin feugiat ante in felis bibendum, id sollicitudin nisi ullamcorper. Nam commodo ultrices magna, in rhoncus justo ultricies at. Nullam facilisis mi vel orci volutpat viverra. Nulla laoreet suscipit velit id feugiat.</string>
+</resources>
